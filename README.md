@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
