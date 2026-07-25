@@ -19,8 +19,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+| [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
