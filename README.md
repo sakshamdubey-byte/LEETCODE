@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0877-stone-game) |
 | [1092-shortest-common-supersequence](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1143-longest-common-subsequence) |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,8 +58,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
