@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [3731-find-missing-elements](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 | [0877-stone-game](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/1406-stone-game-iii) |
+| [3731-find-missing-elements](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
+| [3731-find-missing-elements](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Backtracking
 |  |
 | ------- |
