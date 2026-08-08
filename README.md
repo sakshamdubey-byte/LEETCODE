@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0118-pascals-triangle](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0115-distinct-subsequences](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
 | [0583-delete-operation-for-two-strings](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0583-delete-operation-for-two-strings) |
