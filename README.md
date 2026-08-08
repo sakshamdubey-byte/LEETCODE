@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0041-first-missing-positive](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0041-first-missing-positive) |
 | [3731-find-missing-elements](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
