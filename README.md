@@ -21,10 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
 ## Array
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0041-first-missing-positive) |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0416-partition-equal-subset-sum) |
 | [0455-assign-cookies](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0494-target-sum) |
@@ -94,4 +96,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/sakshamdubey-byte/LEETCODE/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
